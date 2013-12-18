@@ -23,4 +23,4 @@ Sunlit for iPhone URL schemes
 
 **x-callback-url**
 
-> To return to another app after Sunlit processes the request, include an x-callback-url parameter when calling Sunlit, with a value of the other app's URL scheme.
+> To return to another app after Sunlit processes the request, include an [x-callback-url](http://x-callback-url.com) action when calling Sunlit, with an x-success value of the other app's URL scheme.
